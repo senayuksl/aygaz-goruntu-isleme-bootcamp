@@ -81,3 +81,7 @@ These dependencies can be installed using `pip`:
 
 ```bash
 pip install tensorflow opencv-python matplotlib numpy scikit-learn
+
+
+
+https://www.kaggle.com/code/senayuksel/aygaz-goruntu-isleme-bootcamp
